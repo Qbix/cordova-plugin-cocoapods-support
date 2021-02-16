@@ -12,4 +12,5 @@
     </engines>
 
     <hook type="after_prepare" src="scripts/podify.js"/>
+    <hook type="after_plugin_install" src="scripts/podify.js"/>
 </plugin>
